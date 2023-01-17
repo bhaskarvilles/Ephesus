@@ -1,11 +1,11 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: Blog
+title: Bhaskar's Blog 
+keywords: bhaskarvilles, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  Blog - A simple Blog
 lang: en-US
-timezone:  Europe/Istanbul
+timezone:  India/Kolkata
 repo: https://github.com/onepase/Ephesus # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
@@ -13,16 +13,16 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Bhaskar
+  bio: Computer Engineer, <br> Founder @w3 technology <br> Open Source /#linux
   picture: assets/images/profile.jpg 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  github: bhaskarvilles # github username
+  twitter: bhaskarvilles # twitter username
+  facebook: bhaskarvilles # facebook username
+  instagram: bhaskarvilles # instagram username
+  youtube: https://www.youtube.com/channel/fuckologyunofficial # youtube username
+  linkedin: bhaskarvilles # linkedin username
+  email: bhaskarvilles@icloud.com # email adress
 
 
 # URL settings
